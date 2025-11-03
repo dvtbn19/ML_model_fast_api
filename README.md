@@ -1,7 +1,7 @@
 ### 1. Clone the repository
 ```
 git clone https://github.com/dvtbn19/at3_fast_api
-cd dvt_fast_api
+cd at3_fast_api
 
 ```
 ```
